@@ -4323,7 +4323,7 @@ input[name="r"] {
   .middle {
     position: absolute;
     top: 47%;
-    left: 50%;
+    left: 56%;
     transform: translate(-50%, -50%);
   }
   .navigation {
@@ -4467,7 +4467,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 242px !important;
+    margin-top: 271px !important;
     color: white;
     text-decoration: none;
     margin-left: -117px;

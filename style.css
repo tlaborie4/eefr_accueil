@@ -3419,9 +3419,9 @@ input[name="r"] {
   .logo img {
     filter: saturate(180%);
     width: 110px;
-    margin-top: 215px;
+    margin-top: 275px;
     margin-left: -100px;
-    margin-bottom: 55px;
+    margin-bottom: -17px;
     animation: HeroSlideIn 1.5s forwards 0.2s ease;
   }
 

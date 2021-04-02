@@ -2736,13 +2736,6 @@ input[name="r"] {
     text-decoration: none;
   }
 
-  section.accueil .accueil-reseaux {
-    margin-top: 4px !important;
-    color: white;
-    text-decoration: none;
-    margin-left: -119px;
-  }
-
   section.accueil .accueil-reseaux a {
     margin-top: 9px;
     color: white;
@@ -3029,7 +3022,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 238px !important;
+    margin-top: 220px !important;
     color: white;
     text-decoration: none;
     margin-left: -117px;

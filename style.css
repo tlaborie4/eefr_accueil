@@ -2877,7 +2877,7 @@ input[name="r"] {
 
   .middle {
     position: absolute;
-    top: 47%;
+    top: 49%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -3022,7 +3022,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 264px !important;
+    margin-top: 220px !important;
     color: white;
     text-decoration: none;
     margin-left: -117px;
@@ -3502,7 +3502,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 264px !important;
+    margin-top: 242px !important;
     color: white;
     text-decoration: none;
     margin-left: -117px;

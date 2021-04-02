@@ -3523,7 +3523,7 @@ input[name="r"] {
   }
 }
 
-@media screen and (min-width: 2133px) {
+@media screen and (min-width: 1510px) {
   .slidershow {
     width: 600px;
     height: 500px;
@@ -3670,8 +3670,7 @@ input[name="r"] {
   }
 
   section.accueil .main-title h1 {
-    font-size: 63px;
-
+    font-size: 54px;
     font-weight: bold;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     margin-top: -150px;
@@ -3986,7 +3985,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 188px !important;
+    margin-top: 329px !important;
     color: white;
     text-decoration: none;
     margin-left: -73px;

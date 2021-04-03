@@ -1290,18 +1290,18 @@ input[name="r"] {
   section.accueil .left-part .main-btn {
     text-decoration: none;
     color: white;
-    margin-left: 20px;
-    margin-top: -18px;
-    font-size: 11px;
+    margin-left: 30px !important;
+    margin-top: -18.5px;
+    font-size: 13px;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
 
   section.accueil .left-part .main-btn2 {
     text-decoration: none;
     margin-left: -100px;
-    margin-top: -34px;
+    margin-top: -29px;
     display: flex;
-    font-size: 11px;
+    font-size: 13px;
     flex-direction: row;
     align-items: center;
     text-decoration: none;
@@ -1326,11 +1326,10 @@ input[name="r"] {
   section.accueil .left-part .main-btn {
     text-decoration: none;
     display: flex;
-
     flex-direction: row;
     align-items: center;
     margin-left: 120px;
-    margin-top: -27.5px;
+    margin-top: -18.5px;
   }
   section.accueil .left-part .main-btn:hover {
     text-decoration: none;
@@ -1369,7 +1368,7 @@ input[name="r"] {
   }
 
   section.accueil .main-title h1 {
-    font-size: 30px;
+    font-size: 38px;
     font-weight: bold;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     margin-top: -270px;
@@ -1380,11 +1379,11 @@ input[name="r"] {
   }
 
   section.accueil .main-text p {
-    font-size: 11px;
+    font-size: 14px;
     margin-left: -100px;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     font-weight: lighter;
-    width: 19em;
+    width: 20em;
     padding-bottom: 55px;
     text-align: left;
     color: white;
@@ -1392,7 +1391,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 154px !important;
+    margin-top: 214px !important;
     color: white;
     text-decoration: none;
     margin-left: -119px;
@@ -1446,7 +1445,6 @@ input[name="r"] {
 
   .burger span h1 {
     color: white;
-    margin-left: -57px;
     margin-top: -21px;
     font-family: "Moderat";
     font-size: 19px;
@@ -1457,7 +1455,7 @@ input[name="r"] {
     height: 50px;
     position: fixed;
     top: 10px;
-    right: 85px;
+    right: 37px;
     border-radius: 4px;
     z-index: 10;
     animation: HeroSlideIn 3s forwards 0.2s ease;
@@ -1538,15 +1536,17 @@ input[name="r"] {
   /* Carousel Accueil */
 
   .slidershow {
-    width: 230px;
-    height: 200px;
+    width: 438px;
+    height: 220px;
+    max-width: 100%;
     overflow: hidden;
     margin-left: -100px;
+    position: absolute;
     margin-top: 280px;
   }
   .middle {
     position: absolute;
-    top: 47%;
+    top: 51%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -1610,7 +1610,7 @@ input[name="r"] {
     width: 80px;
     margin-top: 185px;
     margin-left: -100px;
-    margin-bottom: 25px;
+    margin-bottom: 62px;
     animation: HeroSlideIn 1.5s forwards 0.2s ease;
   }
 
@@ -1849,7 +1849,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 268px !important;
+    margin-top: 214px !important;
     color: white;
     text-decoration: none;
     margin-left: -119px;
@@ -2004,7 +2004,7 @@ input[name="r"] {
   }
   .middle {
     position: absolute;
-    top: 49%;
+    top: 51%;
     left: 50%;
     transform: translate(-50%, -50%);
   }

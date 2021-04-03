@@ -2128,15 +2128,13 @@ input[name="r"] {
   }
 }
 
-@media screen and (min-width: 701px){
+@media screen and (min-width: 701px) {
   .slidershow {
     width: 330px;
     height: 290px;
     overflow: hidden;
     margin-top: 315px;
   }
-
-  
 
   nav ul.main li a {
     color: #ffffff;
@@ -5058,7 +5056,7 @@ input[name="r"] {
 
   section.accueil .left-part {
     max-width: 140%;
-    margin-top: -170px !important;
+    margin-top: -298px !important;
 
     animation: HeroSlideIn 1s forwards 0.2s ease;
     -webkit-transform: translateY(90px);
@@ -5325,7 +5323,7 @@ input[name="r"] {
 
   .middle {
     position: absolute;
-    top: 47%;
+    top: 56%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -5387,9 +5385,9 @@ input[name="r"] {
   .logo img {
     filter: saturate(180%);
     width: 120px;
-    margin-top: 215px;
+    margin-top: 340px;
     margin-left: -45px;
-    margin-bottom: 55px;
+    margin-bottom: 5px;
     animation: HeroSlideIn 1.5s forwards 0.2s ease;
   }
 
@@ -5470,7 +5468,7 @@ input[name="r"] {
   }
 
   section.accueil .accueil-reseaux {
-    margin-top: 329px !important;
+    margin-top: 230px !important;
     color: white;
     text-decoration: none;
     margin-left: -73px;
@@ -5490,7 +5488,6 @@ input[name="r"] {
     width: 35px;
   }
 }
-
 
 @media screen and (min-width: 2130px) {
   .slidershow {
@@ -5561,7 +5558,7 @@ input[name="r"] {
     text-decoration: none;
     color: white;
     margin-top: -43px !important;
- 
+
     font-size: 33px;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
@@ -5975,4 +5972,3 @@ input[name="r"] {
     margin-top: -150px;
   }
 }
-
